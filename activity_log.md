@@ -5,3 +5,4 @@
 - [2026-03-13T20:19:57Z] chore: remove deprecated API calls
 - [2026-03-13T17:55:41Z] feat: add helper utility function
 - [2026-03-13T17:33:06Z] refactor: clean up unused imports
+- [2026-03-13T22:58:10Z] perf: optimize loop for better performance
